@@ -1,2 +1,2 @@
 # Whatever
-A normal repository 
+A normal repository storing something new.
